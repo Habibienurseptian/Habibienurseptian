@@ -17,8 +17,7 @@
 Name: Habibie Nur Septian 
 <br>
 Location: Indonesia 🇮🇩
-<br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <br>
 Learning:
 
