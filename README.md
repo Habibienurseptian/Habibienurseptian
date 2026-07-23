@@ -30,13 +30,35 @@ Learning:
 
 <div align="center">
 
-## Languages
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,php,javascript,typescript,java,cpp,html,css" />
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+<br><br>
 
-## Tools
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,vite,tailwind,bootstrap,jquery" />
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion" />
+<br><br>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" />
+
+<br><br>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,vercel,netlify" />
+
+<br><br>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,notion,npm,yarn,bash" />
+
+<br><br>
+
+### 📊 Data Analytics
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
 
