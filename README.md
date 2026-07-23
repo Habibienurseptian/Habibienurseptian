@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:B19CD9,100:87CEFA&height=220&section=header&text=Hi%20there,%20I'm%20Goo!%20%E2%9C%A8&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Lifelong%20Learner%20%7C%20Anime%20%26%20Code%20Enthusiast&descAlignY=58&descSize=17&descColor=FFF0F5" />
 
-<img src="https://www.hoyolab.com/article/24234737" alt="Typing SVG" />
+<img src="[https://www.hoyolab.com/article/24234737](https://upload-os-bbs.hoyolab.com/upload/2024/01/09/98335186/6f95df0fb71c835787fd652b680a61cd_754976100120389781.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70)" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=goonesmile&label=PROFILE%20VIEWS&color=FF6FB1&style=for-the-badge&labelColor=2D2A4A" alt="Profile Views" />
 
