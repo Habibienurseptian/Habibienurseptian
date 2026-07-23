@@ -1,6 +1,7 @@
 <div align="center">
   
-# 👋 Hi, I'm Habibie
+<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+# 👋 Hi, I'm Habibie 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Lifelong+Learner;Creative+Thinker;Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -17,7 +18,6 @@
 Name: Habibie Nur Septian 
 <br>
 Location: Indonesia 🇮🇩
-<img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <br>
 Learning:
 
