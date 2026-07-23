@@ -15,7 +15,6 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-```yaml
 Name      : Goo
 Location  : Indonesia 🇮🇩
 Role      : Company Employee
