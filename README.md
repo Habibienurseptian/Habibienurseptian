@@ -1,6 +1,12 @@
 <div align="center">
-<p>
-	<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Welcome%20to%20my%20world!%20&l0=none&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&comment=&bg=none&frame=none"></a>
+<p align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img
+      src="https://typograssy.deno.dev/api?text=Welcome%20to%20my%20world!&l0=none&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&bg=none&frame=none"
+      width="900"
+      alt="Typograssy"
+    />
+  </a>
 </p>
     
 <p>
