@@ -18,26 +18,26 @@
 
 <div align="center">
 
-<img align="right" width="260" src="https://media.giphy.com/media/xUOxf48DBqSfWnaBFa/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/xUOxf48DBqSfWnaBFa/giphy.gif" alt="Shounen Battle GIF"/>
 
-Name      : Goo 🌸
-Pronouns  : She / Her
-Role      : Lifelong Learner
-Occupation: "Budagh Kompeni"
-Learning  : Data Analytics 📊
-Skills    : Python • SQL • Excel • Power BI
-Creative  : Drawing 🎨 | Writing ✍️
-Dream     : Become a Data Analyst
-Power     : Determination + Coffee ☕
+### ⚔️ Goo's Profile Card
 
-💬 *Always learning, always improving.*
+| 🏷️ **Field** | ✨ **Details** |
+|:-------------|:---------------|
+| 👤 **Name** | Goo |
+| 🌸 **Pronouns** | She / Her |
+| 💼 **Current Job** | "Budagh Kompeni" |
+| 📚 **Current Focus** | Data Analytics |
+| 🎨 **Hobbies** | Drawing • Writing |
+| 💡 **Learning** | Python, SQL, Excel, Power BI |
+| ☕ **Fun Fact** | Powered by coffee and determination |
+| 🎯 **Goal** | Keep learning, build useful projects, and grow every day |
 
-> **Current Mission:** Level up my data skills and build impactful projects.
+> *"A person grows up when they're able to overcome hardships. Getting hurt and suffering... that's how you grow."* 🔥
 
 </div>
 
 <br clear="right"/>
-
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
