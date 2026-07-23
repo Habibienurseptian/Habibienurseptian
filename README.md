@@ -7,8 +7,15 @@
     <img align="center" alt="count" src="https://count.getloli.com/@Habibienurseptian?name=Habibienurseptian&theme=booru-lewd">
 </p>
   
-<h2 align="center">👋 Hi, I'm Habibie  <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<h2 align="center">👋 Hi, I'm Habibienurseptian <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Lifelong+Learner;Creative+Thinker;Always+Learning+New+Things" alt="Typing SVG" />
+
+<p>
+	<img src="https://komarev.com/ghpvc/?username=Habibienurseptian&color=1C8C8C&style=for-the-badge" alt="Habibie Github Profile Views">
+	<a href="https://www.linkedin.com/"><img draggable="false" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
+</p>
+
 </div>
 
 # 🌌 About Me
