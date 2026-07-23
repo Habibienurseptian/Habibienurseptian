@@ -1,74 +1,119 @@
 <div align="center">
 
-  <!-- Header Banner Futuristik -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,11,24&height=180&section=header&text=Goo%20%E2%9C%A8&fontSize=48&fontColor=00F2FE&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hi,%20I'm%20Goo%20👋&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20Enthusiast%20|%20Creative%20Thinker&descAlignY=58&descSize=18&descColor=B3E5FC" />
 
-  <!-- Subtitle Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=%3C+Data+Analytics+Enthusiast+%2F%3E;%3C+Turning+Data+Into+Insights+%2F%3E;%3C+Lifelong+Learner+%26+Creative+Thinker+%2F%3E" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Exploring+AI+%26+Automation+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%9A%80;Coffee+%E2%98%95+%2B+Code+%F0%9F%92%BB+%2B+Curiosity+%E2%9C%A8" alt="Typing SVG" />
 
-  <br/><br/>
-
-  <!-- Profile Views counter -->
-  <img src="https://komarev.com/ghpvc/?username=goonesmile&label=CYBER_VISITS&color=00f2fe&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=goonesmile&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge&labelColor=0F0C29" alt="Profile Views" />
 
 </div>
 
-<br/>
+<br>
 
----
+<img src="https://raw.githubusercontent.com/andresmadrid1/andresmadrid1/main/misc/rainbow-line.gif" width="100%">
 
-## ⚡ // SYSTEM_INFO (About Me)
+## 🧬 &nbsp;About Me
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <br/>
-      <p>👋 <b>Halo! Saya Goo.</b> seorang <i>Data Analytics Enthusiast</i> yang berdomisili di Indonesia 🇮🇩.</p>
-      <p>Saya tertarik mengubah tumpukan data mentah menjadi wawasan bisnis yang berharga dan visualisasi yang interaktif. Bagi saya, data bukan sekadar angka—melainkan cerita yang menunggu untuk diungkap.</p>
-      <br/>
-      <code><b>IDENTITY MATRIX</b></code>
-      <ul>
-        <li>💼 <b>Role:</b> Company Employee</li>
-        <li>🗣 <b>Pronouns:</b> She / Her</li>
-        <li>🎯 <b>Current Focus:</b> Advanced Data Analytics & Visualization</li>
-        <li>☕ <b>Fuel:</b> Coffee + Curiosity</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" style="border-radius:10px;" alt="Coding Hologram GIF"/>
-    </td>
-  </tr>
-</table>
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" alt="Futuristic Data GIF"/>
 
----
+```yaml
+goo:
+  name: "Goo"
+  location: "Indonesia 🇮🇩"
+  role: "Company Employee"
+  focus: "Data Analytics"
+  pronouns: "She / Her"
+  status: "🟢 Currently exploring AI-driven analytics"
 
-## 🛠 // TECH_STACK & TOOLS
+interests:
+  - "📊 Data Analytics"
+  - "🤖 Artificial Intelligence"
+  - "☕ Coffee"
+  - "💻 Coding"
+  - "🎨 Creative Design"
+```
+
+> 💡 *"I love exploring data, turning raw information into meaningful insights, and continuously leveling up — one dataset at a time."*
+
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andresmadrid1/andresmadrid1/main/misc/rainbow-line.gif" width="100%">
+
+## ⚙️ &nbsp;Tech Arsenal
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,mysql,vscode,git,github,html,css,javascript&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,vscode,git,github&theme=dark" alt="Tech Stack"/>
+
+<br><br>
+
+![Python](https://img.shields.io/badge/-Python-0F0C29?style=for-the-badge&logo=python&logoColor=00F5FF)
+![SQL](https://img.shields.io/badge/-SQL-0F0C29?style=for-the-badge&logo=mysql&logoColor=00F5FF)
+![Excel](https://img.shields.io/badge/-Excel-0F0C29?style=for-the-badge&logo=microsoftexcel&logoColor=00F5FF)
+![Power BI](https://img.shields.io/badge/-Power%20BI-0F0C29?style=for-the-badge&logo=powerbi&logoColor=00F5FF)
+![Git](https://img.shields.io/badge/-Git-0F0C29?style=for-the-badge&logo=git&logoColor=00F5FF)
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andresmadrid1/andresmadrid1/main/misc/rainbow-line.gif" width="100%">
 
-### 📊 Data & Analytics Ecosystem
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Viz-00F2FE?style=for-the-badge&logo=databricks&logoColor=black" />
-</p>
+## 🚀 &nbsp;Currently Leveling Up
 
----
+<table align="center">
+<tr>
+<td>
 
-## 🚀 // CURRENTLY_LOADING (Learning Pipeline)
+- 📊 &nbsp;Data Analytics
+- 🐍 &nbsp;Python for Data
+- 🗄 &nbsp;SQL Query Mastery
 
-```text
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% - Data Analytics Fundamentals
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░]  70% - Advanced Python & Data Mining
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░]  80% - SQL Complex Queries & Optimization
-[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  60% - Business Intelligence & Power BI
+</td>
+<td>
+
+- 📉 &nbsp;Data Visualization
+- 📑 &nbsp;Advanced Excel
+- 📊 &nbsp;Power BI Dashboards
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andresmadrid1/andresmadrid1/main/misc/rainbow-line.gif" width="100%">
+
+## 📊 &nbsp;GitHub Pulse
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F5FF&icon_color=00F5FF&text_color=B3E5FC" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F5FF&text_color=B3E5FC" width="38%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goonesmile&theme=tokyonight&hide_border=true&background=0F0C29&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="60%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andresmadrid1/andresmadrid1/main/misc/rainbow-line.gif" width="100%">
+
+## 🌐 &nbsp;Let's Connect
+
+<div align="center">
+
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-0F0C29?style=for-the-badge&logo=twitter&logoColor=00F5FF" alt="Twitter"/>
+</a>
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-0F0C29?style=for-the-badge&logo=instagram&logoColor=00F5FF" alt="Instagram"/>
+</a>
+<a href="https://dev.to/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/-Dev.to-0F0C29?style=for-the-badge&logo=devdotto&logoColor=00F5FF" alt="Dev.to"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email"/>
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
+
+</div>
