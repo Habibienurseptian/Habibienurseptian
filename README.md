@@ -11,10 +11,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Lifelong+Learner;Creative+Thinker;Always+Learning+New+Things" alt="Typing SVG" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Habibienurseptian&style=for-the-badge&color=1C8C8C" />
-</p>
-
 </div>
 
 # 🌌 About Me
