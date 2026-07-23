@@ -4,7 +4,7 @@
 </p>
     
 <p>
-    <img align="center" alt="count" src="https://count.getloli.com/Habibienurseptian?name=Habibienurseptian&theme=booru-lewd">
+    <img align="center" alt="count" src="https://count.getloli.com/@Habibienurseptian?name=Habibienurseptian&theme=booru-lewd">
 </p>
   
 <h2 align="center">👋 Hi, I'm Habibie  <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
