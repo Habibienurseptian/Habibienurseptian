@@ -1,7 +1,4 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,50:6E00FF,100:FF00F7&text=Zelovx&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20•%20Creative%20•%20Lifelong%20Learner&descAlignY=58"/>
-
 # 👋 Hi, I'm Habibie
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Lifelong+Learner;Creative+Thinker;Always+Learning+New+Things" alt="Typing SVG" />
