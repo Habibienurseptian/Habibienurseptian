@@ -7,6 +7,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Lifelong+Learner;Creative+Thinker;Always+Learning+New+Things" alt="Typing SVG" />
 
+<div style="width:100%;height:0;padding-bottom:88%;position:relative;"><img src="https://i.pinimg.com/originals/3b/59/ac/3b59acbfa00430117fda937cc6783903.gif" class="giphy-embed" alt="Kirito"></div>
+
 <p>
 	<img src="https://komarev.com/ghpvc/?username=Habibienurseptian&color=1C8C8C&style=for-the-badge" alt="Habibie Github Profile Views">
 	<a href="https://www.linkedin.com/"><img draggable="false" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
