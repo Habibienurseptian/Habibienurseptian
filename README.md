@@ -1,4 +1,8 @@
 <div align="center">
+
+<p>
+    <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
+</p>
   
 <h2 align="center">👋 Hi, I'm Habibie  <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
