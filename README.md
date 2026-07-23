@@ -15,9 +15,10 @@
 
 # 🌌 About Me
 Name: Habibie Nur Septian
-Location: Indonesia 🇮🇩
-Learning:
 
+Location: Indonesia 🇮🇩
+
+Learning:
 
 # 🚀 Tech Stack
 <div align="center">
