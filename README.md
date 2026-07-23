@@ -3,8 +3,6 @@
 	<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Welcome%20to%20my%20world!%20&l0=none&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&comment=&bg=none&frame=none"></a>
 </p>
     
-<h2 align="center">👋 Hi, I'm Habibienurseptian <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Lifelong+Learner;Creative+Thinker;Always+Learning+New+Things" alt="Typing SVG" />
 
 <p>
@@ -21,10 +19,7 @@
 </div>
 
 # 🌌 About Me
-Name: Habibie Nur Septian 
-<br>
-Location: Indonesia 🇮🇩
-<br>
+<h2 align="center">👋 Hi, I'm Habibienurseptian <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 Learning:
 
 # 🚀 Tech Stack
