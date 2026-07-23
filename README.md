@@ -68,20 +68,6 @@ Learning:
 </div>
 
 
-# 🌱 Currently Learning
-
-<div align="center">
-
-| 📚 Learning | 🚀 Progress |
-|------------|------------|
-| Python | ███████░░░ 70% |
-| SQL | ████████░░ 80% |
-| Power BI | ██████░░░░ 60% |
-| Data Analytics | ███████░░░ 75% |
-
-</div>
-
-
 # 💬 Quote
 
 <div align="center">
