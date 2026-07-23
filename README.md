@@ -12,7 +12,6 @@
 
 ## 👁️‍🗨️ &nbsp; SYSTEM.INFO
 
-```bash
 > whoami
 Goo — Lifelong Learner // "budagh kompeni" by day, builder by night
 
@@ -25,7 +24,6 @@ Data Analytics → transitioning into Software Engineering / Web Dev
 
 > pronouns
 She / Her
-```
 
 <br>
 
