@@ -80,32 +80,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=goonesmile&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</p>
-
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-# 🎯 Quote
-
-<p align="center">
-
-> *"Learning never exhausts the mind. Every day is a chance to become better."* ✨
-
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" alt="Footer"/>
 </p>
