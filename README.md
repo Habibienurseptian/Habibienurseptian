@@ -17,7 +17,7 @@
 
 # 🌌 About Me
 
-Name: Goo
+Name: Habibie Nur Septian
 
 Role: Employee 👩🏻‍💻
 
