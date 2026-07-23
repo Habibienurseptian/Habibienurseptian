@@ -21,8 +21,15 @@
 </div>
 
 # 🌌 About Me
+I'm a software developer with a passion for creating efficient, scalable, and user-friendly applications. I enjoy learning new technologies, contributing to open-source projects, and continuously improving my programming skills.
 
+- 💼 Interested in Full Stack Development
+- 🌱 Currently learning modern web technologies
+- 🛠️ Building projects with Laravel, React, Next.js, and MySQL
+- 🤝 Open to collaboration and freelance opportunities
+- 📫 Reach me through my social media or email
 # 🚀 Tech Stack
+
 <div align="center">
   
 ### 💻 Programming Languages
