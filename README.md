@@ -25,6 +25,7 @@ Learning:
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=python,php,javascript,typescript,java,cpp,html,css" />
 <br><br>
+
 ### ⚙️ Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,vite,tailwind,bootstrap,jquery" />
 <br><br>
