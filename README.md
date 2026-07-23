@@ -1,90 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:B19CD9,100:87CEFA&height=220&section=header&text=Hi%20there,%20I'm%20Goo!%20%E2%9C%A8&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Lifelong%20Learner%20%7C%20Anime%20%26%20Code%20Enthusiast&descAlignY=58&descSize=17&descColor=FFF0F5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:FF4500&height=220&section=header&text=GOO%20HAS%20ENTERED%20THE%20BATTLE!%20%E2%9A%94%EF%B8%8F&fontSize=32&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Lifelong%20Learner%20%7C%20Rising%20Through%20The%20Ranks&descAlignY=58&descSize=17&descColor=FFFFFF" />
 
-<img src="https://c4.wallpaperflare.com/wallpaper/136/317/211/furina-genshin-impact-genshin-impact-anime-girls-blue-blouse-hd-wallpaper-preview.jpg" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Bangers&weight=700&size=26&duration=2800&pause=1000&color=FF4500&center=true&vCenter=true&width=650&lines=POWER+LEVEL%3A+RISING...+%F0%9F%94%A5;CURRENT+ARC%3A+%22budagh+kompeni%22+%F0%9F%98%85;TRAINING+IN%3A+Data+Analytics+%E2%9A%94%EF%B8%8F;NEVER+GIVE+UP%2C+BELIEVE+IT!+%F0%9F%92%A5" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=goonesmile&label=PROFILE%20VIEWS&color=FF6FB1&style=for-the-badge&labelColor=2D2A4A" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=goonesmile&label=BATTLES%20WITNESSED&color=FF4500&style=for-the-badge&labelColor=0D0D0D" alt="Profile Views" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
-## 🎴 &nbsp; Character Profile
+## ⚔️ &nbsp; CHARACTER STATUS
 
-<img align="right" width="260" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Anime Study GIF"/>
+<img align="right" width="260" src="https://media.giphy.com/media/xUOxf48DBqSfWnaBFa/giphy.gif" alt="Shounen Battle GIF"/>
 
-| ✨ Stat | 📋 Value |
-|---|---|
-| 👤 Name | Goo |
-| 🎭 Class | Lifelong Learner |
-| 💼 Day Job | "Budagh Kompeni" 😄 |
-| 📚 Current Quest | Data Analytics |
-| ☁️ Pronouns | She / Her |
-| 🎲 Special Skills | Drawing ✏️ & Writing 📝 |
+```
+╔═══════════════════════════════╗
+║  NAME       : Goo              ║
+║  CLASS      : Lifelong Learner ║
+║  DAY JOB    : "Budagh Kompeni" ║
+║  CURRENT ARC: Data Analytics   ║
+║  PRONOUNS   : She / Her        ║
+║  SPECIAL    : Drawing + Writing║
+╚═══════════════════════════════╝
+```
 
-> 🌸 *"Even a small step forward is still a step forward — believe it!"*
+> 🔥 *"A person grows up when they're able to overcome hardships. Getting hurt and suffering... that's how you grow."*
 
 <br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
-## ⚔️ &nbsp; Equipment / Tools
+## 🗡️ &nbsp; WEAPONS & TECHNIQUES
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-2D2A4A?style=for-the-badge&logo=visualstudiocode&logoColor=FF6FB1)
-![Python](https://img.shields.io/badge/-Python-2D2A4A?style=for-the-badge&logo=python&logoColor=87CEFA)
-![HTML5](https://img.shields.io/badge/-HTML5-2D2A4A?style=for-the-badge&logo=html5&logoColor=FFB6C1)
-![CSS3](https://img.shields.io/badge/-CSS3-2D2A4A?style=for-the-badge&logo=css3&logoColor=87CEFA)
-![JavaScript](https://img.shields.io/badge/-JavaScript-2D2A4A?style=for-the-badge&logo=javascript&logoColor=FFE066)
-![MySQL](https://img.shields.io/badge/-MySQL-2D2A4A?style=for-the-badge&logo=mysql&logoColor=87CEFA)
-![Git](https://img.shields.io/badge/-Git-2D2A4A?style=for-the-badge&logo=git&logoColor=FF6FB1)
-![GitHub](https://img.shields.io/badge/-GitHub-2D2A4A?style=for-the-badge&logo=github&logoColor=B19CD9)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)
+![Python](https://img.shields.io/badge/-Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF4500)
+![HTML5](https://img.shields.io/badge/-HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FFD700)
+![CSS3](https://img.shields.io/badge/-CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF4500)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![MySQL](https://img.shields.io/badge/-MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=FF4500)
+![Git](https://img.shields.io/badge/-Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FFD700)
+![GitHub](https://img.shields.io/badge/-GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF4500)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
-## 📜 &nbsp; Yosh! Let's Go!
+## 💥 &nbsp; TRAINING ARC LOG
 
-- ⌨️ &nbsp;Currently grinding **Data Analytics** skill tree
-- 💬 &nbsp;Ask me about anything — I don't bite (unless it's a bug 🐛)
-- 📬 &nbsp;Send a message bird: [**Email me!**](mailto:youremail@gmail.com)
+- ⌨️ &nbsp;Currently training in **Data Analytics** — grinding stats daily
+- 💬 &nbsp;Challenge me — ask about anything, I'm always up for it
+- 📬 &nbsp;Send a message via hawk: [**Email me!**](mailto:youremail@gmail.com)
 - ☁️ &nbsp;Pronouns: **She / Her**
-- 🎲 &nbsp;Side quests: drawing and writing
-- 🍡 &nbsp;Fuel source: coffee + anime OSTs on loop
+- 🎲 &nbsp;Hidden techniques: drawing and writing
+- 🔥 &nbsp;Power source: determination + way too much coffee
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
-## 📊 &nbsp; Power Level (GitHub Stats)
+## 📈 &nbsp; POWER LEVEL STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=radical&hide_border=true&bg_color=2D2A4A&title_color=FF6FB1&icon_color=87CEFA&text_color=FFF0F5" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=radical&hide_border=true&bg_color=2D2A4A&title_color=FF6FB1&text_color=FFF0F5" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=dracula&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=dracula&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=FFFFFF" width="38%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goonesmile&theme=radical&hide_border=true&background=2D2A4A&stroke=FF6FB1&ring=87CEFA&fire=FF6FB1&currStreakLabel=87CEFA" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goonesmile&theme=dracula&hide_border=true&background=0D0D0D&stroke=FFD700&ring=FF4500&fire=FF4500&currStreakLabel=FFD700" width="60%"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
-## 🎀 &nbsp; Party Members / Connect
+## 🤝 &nbsp; ALLIES / SQUAD UP
 
 <div align="center">
 
 <a href="https://twitter.com/yours" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-2D2A4A?style=for-the-badge&logo=twitter&logoColor=87CEFA" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/-Twitter-0D0D0D?style=for-the-badge&logo=twitter&logoColor=FFD700" alt="Twitter"/>
 </a>
 <a href="https://www.instagram.com/yours/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-2D2A4A?style=for-the-badge&logo=instagram&logoColor=FF6FB1" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/-Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FF4500" alt="Instagram"/>
 </a>
 <a href="https://yours.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Blog-2D2A4A?style=for-the-badge&logo=blogger&logoColor=FFE066" alt="Blog"/>
+  <img src="https://img.shields.io/badge/-Blog-0D0D0D?style=for-the-badge&logo=blogger&logoColor=FFD700" alt="Blog"/>
 </a>
 <a href="mailto:youremail@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-2D2A4A?style=for-the-badge&logo=gmail&logoColor=87CEFA" alt="Email"/>
+  <img src="https://img.shields.io/badge/-Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF4500" alt="Email"/>
 </a>
 
 </div>
@@ -92,9 +94,9 @@
 <br>
 
 <div align="center">
-<sub>🌸 &nbsp; To be continued... &nbsp; 🌸</sub>
+<sub>⚡ &nbsp; TO BE CONTINUED... NEXT ARC LOADING &nbsp; ⚡</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,50:B19CD9,100:FFB6C1&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:8B0000,100:0D0D0D&height=120&section=footer"/>
 
 </div>
