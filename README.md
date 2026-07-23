@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:B19CD9,100:87CEFA&height=220&section=header&text=Hi%20there,%20I'm%20Goo!%20%E2%9C%A8&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Lifelong%20Learner%20%7C%20Anime%20%26%20Code%20Enthusiast&descAlignY=58&descSize=17&descColor=FFF0F5" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=22&duration=3000&pause=1000&color=FF6FB1&center=true&vCenter=true&width=650&lines=Konnichiwa%2C+welcome+to+my+world!+%F0%9F%8C%B8;Powered+by+anime+%2B+coffee+%E2%98%95;Learning+one+quest+at+a+time+%E2%9A%94%EF%B8%8F;Currently%3A+%22budagh+kompeni%22+arc+%F0%9F%98%85" alt="Typing SVG" />
+<img src="https://www.hoyolab.com/article/24234737" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=goonesmile&label=PROFILE%20VIEWS&color=FF6FB1&style=for-the-badge&labelColor=2D2A4A" alt="Profile Views" />
 
