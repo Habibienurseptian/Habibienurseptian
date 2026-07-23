@@ -12,7 +12,7 @@
 	<a href="https://www.linkedin.com/">
 		<img draggable="false" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
 	</a>
-	<a href="https://www.instagram.com/username_anda/">
+	<a href="https://www.instagram.com/">
 	  <img draggable="false" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
 	</a>
 </p>
