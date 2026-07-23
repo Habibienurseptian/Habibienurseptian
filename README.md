@@ -19,9 +19,7 @@
 </div>
 
 # 🌌 About Me
-<div align="center">
-	<h2>👋 Hi, I'm Habibienurseptian <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
-</div>
+<h2>👋 Hi, I'm Habibienurseptian <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
 # 🚀 Tech Stack
 <div align="center">
