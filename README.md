@@ -20,7 +20,6 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/xUOxf48DBqSfWnaBFa/giphy.gif"/>
 
-```yaml
 Name      : Goo 🌸
 Pronouns  : She / Her
 Role      : Lifelong Learner
@@ -30,7 +29,6 @@ Skills    : Python • SQL • Excel • Power BI
 Creative  : Drawing 🎨 | Writing ✍️
 Dream     : Become a Data Analyst
 Power     : Determination + Coffee ☕
-```
 
 💬 *Always learning, always improving.*
 
