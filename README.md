@@ -8,6 +8,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="480" alt="Battle Entrance GIF"/>
+</div>
+
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rainbow-superthin.gif" width="100%">
 
 ## ⚔️ &nbsp; CHARACTER STATUS
@@ -34,6 +38,10 @@
 ## 🗡️ &nbsp; WEAPONS & TECHNIQUES
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400" alt="Power Up GIF"/>
+
+<br><br>
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)
 ![Python](https://img.shields.io/badge/-Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF4500)
@@ -92,6 +100,10 @@
 </div>
 
 <br>
+
+<div align="center">
+<img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="420" alt="Final Battle GIF"/>
+</div>
 
 <div align="center">
 <sub>⚡ &nbsp; TO BE CONTINUED... NEXT ARC LOADING &nbsp; ⚡</sub>
