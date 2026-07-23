@@ -57,34 +57,6 @@ Learning:
 
 </div>
 
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=goonesmile&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goonesmile&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/goonesmile/goonesmile/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-
 # 💻 Workspace
 
 <div align="center">
