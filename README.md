@@ -9,7 +9,12 @@
 
 <p>
 	<img src="https://komarev.com/ghpvc/?username=Habibienurseptian&color=1C8C8C&style=for-the-badge" alt="Habibie Github Profile Views">
-	<a href="https://www.linkedin.com/"><img draggable="false" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
+	<a href="https://www.linkedin.com/">
+		<img draggable="false" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
+	</a>
+	<a href="https://www.instagram.com/username_anda/">
+	  <img draggable="false" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+	</a>
 </p>
 
 <div style="width:100%;height:0;padding-bottom:88%;position:relative;"><img src="https://i.pinimg.com/originals/3b/59/ac/3b59acbfa00430117fda937cc6783903.gif" class="giphy-embed" alt="Kirito"></div>
