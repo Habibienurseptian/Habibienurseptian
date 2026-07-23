@@ -13,12 +13,15 @@
 
 ## 👩‍💻 About Me
 
+<img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 ```yaml
-Name: Goo
-Role: Company Employee 👩‍💼
-Focus: Data Analytics 📊
-Pronouns: She/Her
-Hobbies:
+Name      : Goo
+Location  : Indonesia 🇮🇩
+Role      : Company Employee
+Learning  : Data Analytics 📊
+Pronouns  : She / Her
+Interests :
 
 
 💡 I love exploring data, creating meaningful insights, and continuously improving my skills.
