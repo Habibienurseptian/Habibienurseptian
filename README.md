@@ -1,63 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Hi,%20I'm%20Goo%20👋&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20Enthusiast%20|%20Creative%20Thinker&descAlignY=58&descSize=18&descColor=B3E5FC" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF5F5,50:FFD1DC,100:FF6B81&height=220&section=header&text=こんにちは、Goo です👋&fontSize=36&fontColor=8B0000&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20Enthusiast%20|%20Creative%20Thinker&descAlignY=58&descSize=18&descColor=5C0011" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Exploring+AI+%26+Automation+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%9A%80;Coffee+%E2%98%95+%2B+Code+%F0%9F%92%BB+%2B+Curiosity+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&weight=600&size=22&duration=3000&pause=1000&color=D7263D&center=true&vCenter=true&width=650&lines=データを美しく%2C+洞察へ%20%F0%9F%8C%B8;Always+Learning%2C+Always+Growing+%E2%9B%A9;Coffee+%E2%98%95+%2B+Code+%F0%9F%8F%AE+%2B+Curiosity+%F0%9F%8E%8E" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=goonesmile&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge&labelColor=0F0C29" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=goonesmile&label=PROFILE%20VIEWS&color=D7263D&style=for-the-badge&labelColor=FFF5F5" alt="Profile Views" />
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andresmadrid1/andresmadrid1/main/misc/rainbow-line.gif" width="100%">
+<p align="center">🌸　　　⛩️　　　🎏　　　🍡　　　🎴　　　⛩️　　　🌸</p>
 
-## 🧬 &nbsp;About Me
+## ⛩️ &nbsp;自己紹介 &nbsp;<sub>About Me</sub>
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" alt="Futuristic Data GIF"/>
+<img align="right" width="260" src="https://media.giphy.com/media/L2ubl1V2vzTLR8DkXK/giphy.gif" alt="Sakura GIF"/>
 
-```yaml
-goo:
-  name: "Goo"
-  location: "Indonesia 🇮🇩"
-  role: "Company Employee"
-  focus: "Data Analytics"
-  pronouns: "She / Her"
-  status: "🟢 Currently exploring AI-driven analytics"
+| 🎋 | |
+|---|---|
+| 👩 名前 (Name) | Goo |
+| 📍 出身地 (Location) | Indonesia 🇮🇩 |
+| 💼 職業 (Role) | Company Employee |
+| 📚 学習中 (Learning) | Data Analytics |
+| 🗣 代名詞 (Pronouns) | She / Her |
 
-interests:
-  - "📊 Data Analytics"
-  - "🤖 Artificial Intelligence"
-  - "☕ Coffee"
-  - "💻 Coding"
-  - "🎨 Creative Design"
-```
+### 🎐 興味 &nbsp;<sub>Interests</sub>
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence
+- ☕ Coffee
+- 💻 Coding
+- 🎨 Creative Design
 
-> 💡 *"I love exploring data, turning raw information into meaningful insights, and continuously leveling up — one dataset at a time."*
+> 🍵 *"データは静かに語る。私はその声に耳を傾ける。"*
+> *(Data speaks quietly — I'm here to listen and turn it into insight.)*
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andresmadrid1/andresmadrid1/main/misc/rainbow-line.gif" width="100%">
+<p align="center">🌸　　　⛩️　　　🎏　　　🍡　　　🎴　　　⛩️　　　🌸</p>
 
-## ⚙️ &nbsp;Tech Arsenal
+## 🏯 &nbsp;技術スタック &nbsp;<sub>Tech Stack</sub>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,vscode,git,github&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,vscode,git,github" alt="Tech Stack"/>
 
 <br><br>
 
-![Python](https://img.shields.io/badge/-Python-0F0C29?style=for-the-badge&logo=python&logoColor=00F5FF)
-![SQL](https://img.shields.io/badge/-SQL-0F0C29?style=for-the-badge&logo=mysql&logoColor=00F5FF)
-![Excel](https://img.shields.io/badge/-Excel-0F0C29?style=for-the-badge&logo=microsoftexcel&logoColor=00F5FF)
-![Power BI](https://img.shields.io/badge/-Power%20BI-0F0C29?style=for-the-badge&logo=powerbi&logoColor=00F5FF)
-![Git](https://img.shields.io/badge/-Git-0F0C29?style=for-the-badge&logo=git&logoColor=00F5FF)
+![Python](https://img.shields.io/badge/-Python-8B0000?style=for-the-badge&logo=python&logoColor=FFF5F5)
+![SQL](https://img.shields.io/badge/-SQL-8B0000?style=for-the-badge&logo=mysql&logoColor=FFF5F5)
+![Excel](https://img.shields.io/badge/-Excel-8B0000?style=for-the-badge&logo=microsoftexcel&logoColor=FFF5F5)
+![Power BI](https://img.shields.io/badge/-Power%20BI-8B0000?style=for-the-badge&logo=powerbi&logoColor=FFF5F5)
+![Git](https://img.shields.io/badge/-Git-8B0000?style=for-the-badge&logo=git&logoColor=FFF5F5)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresmadrid1/andresmadrid1/main/misc/rainbow-line.gif" width="100%">
+<p align="center">🌸　　　⛩️　　　🎏　　　🍡　　　🎴　　　⛩️　　　🌸</p>
 
-## 🚀 &nbsp;Currently Leveling Up
+## 🎏 &nbsp;修行中 &nbsp;<sub>Currently Learning</sub>
 
 <table align="center">
 <tr>
@@ -78,42 +77,46 @@ interests:
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andresmadrid1/andresmadrid1/main/misc/rainbow-line.gif" width="100%">
+<p align="center">🌸　　　⛩️　　　🎏　　　🍡　　　🎴　　　⛩️　　　🌸</p>
 
-## 📊 &nbsp;GitHub Pulse
+## 🍡 &nbsp;GitHub 統計 &nbsp;<sub>GitHub Stats</sub>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F5FF&icon_color=00F5FF&text_color=B3E5FC" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F5FF&text_color=B3E5FC" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=goonesmile&show_icons=true&theme=cherry&hide_border=true&bg_color=FFF5F5&title_color=D7263D&icon_color=D7263D&text_color=5C0011" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goonesmile&layout=compact&theme=cherry&hide_border=true&bg_color=FFF5F5&title_color=D7263D&text_color=5C0011" width="38%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goonesmile&theme=tokyonight&hide_border=true&background=0F0C29&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goonesmile&theme=highcontrast&hide_border=true&background=FFF5F5&stroke=D7263D&ring=D7263D&fire=D7263D&currStreakLabel=D7263D&sideNums=8B0000&sideLabels=8B0000&dates=5C0011" width="60%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresmadrid1/andresmadrid1/main/misc/rainbow-line.gif" width="100%">
+<p align="center">🌸　　　⛩️　　　🎏　　　🍡　　　🎴　　　⛩️　　　🌸</p>
 
-## 🌐 &nbsp;Let's Connect
+## 🎴 &nbsp;繋がりましょう &nbsp;<sub>Let's Connect</sub>
 
 <div align="center">
 
 <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-0F0C29?style=for-the-badge&logo=twitter&logoColor=00F5FF" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/-Twitter-8B0000?style=for-the-badge&logo=twitter&logoColor=FFF5F5" alt="Twitter"/>
 </a>
 <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-0F0C29?style=for-the-badge&logo=instagram&logoColor=00F5FF" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/-Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=FFF5F5" alt="Instagram"/>
 </a>
 <a href="https://dev.to/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/-Dev.to-0F0C29?style=for-the-badge&logo=devdotto&logoColor=00F5FF" alt="Dev.to"/>
+  <img src="https://img.shields.io/badge/-Dev.to-8B0000?style=for-the-badge&logo=devdotto&logoColor=FFF5F5" alt="Dev.to"/>
 </a>
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email"/>
+  <img src="https://img.shields.io/badge/-Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=FFF5F5" alt="Email"/>
 </a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
+<div align="center">
+<sub>また会う日まで 🌸 &nbsp;— &nbsp;See you again soon</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B81,50:FFD1DC,100:FFF5F5&height=120&section=footer"/>
 
 </div>
