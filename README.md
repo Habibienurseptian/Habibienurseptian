@@ -104,6 +104,6 @@ I'm a software developer with a passion for creating efficient, scalable, and us
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5FF,50:6E00FF,100:FF00F7"/>
-### ✨ Thanks for visiting my profile!
 
+### ✨ Thanks for visiting my profile!
 </div>
